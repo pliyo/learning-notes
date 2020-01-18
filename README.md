@@ -10,4 +10,5 @@ Taking notes as I study for future consumption.
 
 ## Kubernetes
 
+- [The State of Kubernetes Development Tooling](./talks/kubernetes/state-of-kubernetes-development-tooling.md) by **Ellen Körbes**, GOTO 2019.
 - [Why I love Kubernetes failure Stories and You Should Too](./talks/kubernetes/why-i-love-kubernetes-failure-stories.md) by **Henning Jacobs**, GOTO 2019.
