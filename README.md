@@ -15,4 +15,10 @@ Taking notes as I study for future consumption.
 
 # Leadership
 
-- [Interview with Patrick Kua about the role of Tech Lead](./talks/leadership/interview-with-patrick-kua.md), by **PAtrick Kua**, GOTO 2019 (`5min 08s`).
+- [Interview with Patrick Kua about the role of Tech Lead](./talks/leadership/interview-with-patrick-kua.md), by **Patrick Kua**, GOTO 2019 (`5min 08s`).
+- [Talking with Tech Leads by Patrick Kua](./talks/leadership/talking-with-tech-leads.md)
+- [What Technical Leads can Learn from Great General Managers?](./talks/leadership/what-tech-leads-can-learn-from-general-managers.md) , by **Courtney Hemphill**, GOTO 2019 (`36min 55s`).
+
+# Podcasts
+
+- [The importance of Technical Leadership](./podcasts/the-importance-of-technical-leadership.md) with Patrick Kua, 2017.
