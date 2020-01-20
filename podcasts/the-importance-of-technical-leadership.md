@@ -10,7 +10,7 @@
 
 - `Tell us about encouraging 30% of time doing code`
 
-  - I value feedback loop [...] They need to code so they can understand the decisions they make, and it's good that you are able to make decisions. It's hard to do that if you don't have the respect of the people.
+  - I value feedback loop [...] They need to code so they can understand the decisions they make, and it's good that you are able to make decisions. It's hard to do that if you don't have the respect of the people. (Coding will give that)
 
 - `What's your thought as you get further up away from the code?`
 
@@ -35,7 +35,7 @@
 
 - `Anything from the top of your head you'd recommend?`
 
-  - Yes, leading snowflakes. Continuous Delivery from a big architecture perspective.
+  - Yes, leading snowflakes (a book). Continuous Delivery (book) from a big architecture perspective.
 
 - `Recommendations for new Tech Leads?`
 

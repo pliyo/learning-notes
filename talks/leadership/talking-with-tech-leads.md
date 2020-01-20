@@ -53,11 +53,11 @@
 # Surprises & Struggles
 
 - Feeling alone.
-- Uncertainty
-- People are puzzling: Unique, different strengths, archetypes not stereotypes try not to project your personal experience on somebody else just because it looks like something you know.
-- Build a support structure
+- Uncertainty.
+- People are puzzling: Unique, different strengths, archetypes not stereotypes. Try not to project your personal experience on somebody else just because it looks like something you know.
+- Build a support structure.
 
-# A great tech lead
+# Tips to become a great tech lead
 
 - Tell or delegate
   - Tell -> Sell -> Participate -> Delegate
