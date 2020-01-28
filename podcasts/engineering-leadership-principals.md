@@ -13,4 +13,12 @@
 
 # Principles
 
-- No broken windows
+- No broken windows: Alerts and exceptions come first before any new development.
+- Know your black and white before you deal with the grey. Before you deal with "it depends" think about: What a beautiful code looks like? What success looks like? What would make the team furious? How does a healthy team looks like?
+- Understand how each person sees success.
+- Read business books so you can provide more clarity around the big picture.
+- Measure twice, cut once. Once you finish the project: What are the things that you could have learned before?
+
+# Resources for other engineering managers
+
+- [Follow the leader, by Dick Costello](https://www.youtube.com/watch?v=Tbpd6vVdNQ0). What's your role as a leader?
