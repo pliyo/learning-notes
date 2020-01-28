@@ -23,3 +23,4 @@ Taking notes as I study with the spirit of having a place to come back to.
 # Podcasts
 
 - [The importance of Technical Leadership](./podcasts/the-importance-of-technical-leadership.md) with Patrick Kua, 2017.
+- [Best Practices for Managing Remote Teams with Steph Smith](./podcasts/best-practices-for-managing.md) with Steph Smith, 2017.
