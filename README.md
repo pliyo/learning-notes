@@ -19,6 +19,7 @@ Taking notes as I study with the spirit of having a place to come back to.
 - [Interview with Patrick Kua about the role of Tech Lead](./talks/leadership/interview-with-patrick-kua.md), by **Patrick Kua**, GOTO 2019 (`5min 08s`).
 - [Scaling yourself during hypergrowth](./talks/leadership/scaling-yourself-during-hypergrowth.md) by **Julia Grace** (`32min 44s`)
 - [Remote first teams work better](./talks/leadership/remote-first-work-better.md), by **Nassim Kammah** (`25min 52s`)
+- [Resilience engineering mythbusting](./talks/leadersip/resilience-engineering-mythbusting.md), by **Will Gallego** (`10min 30s`)
 - [Talking with Tech Leads](./talks/leadership/talking-with-tech-leads.md), by **Patrick Kua**, GOTO 2018 (`47min 41s`)
 - [What Technical Leads can Learn from Great General Managers?](./talks/leadership/what-tech-leads-can-learn-from-general-managers.md) , by **Courtney Hemphill**, GOTO 2019 (`36min 55s`).
 - [We're Agile, We Don't do Documentation](./talks/leadership/we-are-agile-we-dont-do-documentation.md) by **Birgitta Boeckeler** (`26min 03s`).
@@ -26,5 +27,5 @@ Taking notes as I study with the spirit of having a place to come back to.
 # Podcasts
 
 - [The importance of Technical Leadership](./podcasts/the-importance-of-technical-leadership.md) with **Patrick Kua**, 2017.
-- [Best Practices for Managing Remote Teams with Steph Smith](./podcasts/best-practices-for-managing.md) with Steph Smith, 2017.
-- [How to Manage Efficiently Through a Merger or Acquisition](./podcasts/how-to-manage-efficiently-through-a-merger.md) by Loïc Houssier.
+- [Best Practices for Managing Remote Teams with Steph Smith](./podcasts/best-practices-for-managing.md) with **Steph Smith**, 2017.
+- [How to Manage Efficiently Through a Merger or Acquisition](./podcasts/how-to-manage-efficiently-through-a-merger.md) by **Loïc Houssier**, 2020.
