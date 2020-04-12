@@ -16,3 +16,9 @@
 - Security has to be everybody's job. Snyk: Scan images, Static CVE Scan. Twistlock: Monitor runtime containers.
 
 - Not everybody can be an expert of everything, you need the expertise on the team, not the person.
+
+- Teams must be structured to own small pieces.
+
+- Docker and Kubernetes are here to stay... until they don't
+
+- You must test in production. Own it and architect for it.
