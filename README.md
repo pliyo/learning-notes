@@ -25,6 +25,10 @@ Taking notes as I study with the spirit of having a place to come back to.
 - [What Technical Leads can Learn from Great General Managers?](./talks/leadership/what-tech-leads-can-learn-from-general-managers.md) , by **Courtney Hemphill**, GOTO 2019 (`36min 55s`).
 - [We're Agile, We Don't do Documentation](./talks/leadership/we-are-agile-we-dont-do-documentation.md) by **Birgitta Boeckeler** (`26min 03s`).
 
+# DevOps
+
+- [Modern Continuous Delivery](./talks/devops/modern-continuous-delivery.md) by **Ken Mugrage** (`36min 29s`)
+
 # Podcasts
 
 - [The importance of Technical Leadership](./podcasts/the-importance-of-technical-leadership.md) with **Patrick Kua**, 2017.
