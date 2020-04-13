@@ -2,6 +2,10 @@
 
 Taking notes as I study with the spirit of having a place to come back to.
 
+# Books
+
+- [Notes to a Software Team Leader](./books/notes-to-a-software-team-leader.md) by **Roy Osherove**.
+
 # Talks
 
 ## Events
