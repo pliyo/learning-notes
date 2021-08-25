@@ -27,4 +27,12 @@ A lot of running processes will invert the flow. What state do I need to hold to
 - Different from message handlers, have state, message handlers don't
 - A saga is a class that handles multiple messages and contains multiple states.
 
+Given that a message is going to start a long running process, a new saga object is created
+the saga in processing that message modified the state that it's relevant into it (publishing messages, sending a reply...), once that method handling logic has completed, then the saga state is now consistent.
 
+Almost all workflow engines have some kind of transactional persistent behind the scenes to ensure they can pick up where they left off.
+
+- We need to find a way to look up the saga to check the data we have inside, sometimes this is about checking the saga id.
+- Usually at the end of the long running process, there would be some kind of event or message that it's send, to where the saga communicates the end result -> this is what I have decided. In general we want to avoid the long running process modifying master data directly. The saga is focused in process logic, every step updates private state. Sagas focuses on process state, message in, message out. Other processes focuses on modifying main data.
+
+The sagas are there until they are needed, then they are shut down and their data is cleared out.
