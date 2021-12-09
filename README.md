@@ -42,7 +42,6 @@ Taking notes as I study with the spirit of having a place to come back to.
 
 # Art & Inspiration
 
-- This section covers movies and tv series.
-- [Clone Wars](./art/clone-wars.md)
+- [Clone Wars](./art/clone-wars.md), TV Series 2008 - 2020
 
  
