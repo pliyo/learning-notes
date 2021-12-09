@@ -39,3 +39,10 @@ Taking notes as I study with the spirit of having a place to come back to.
 - [Best Practices for Managing Remote Teams with Steph Smith](./podcasts/best-practices-for-managing.md) with **Steph Smith**, 2017.
 - [How to Manage Efficiently Through a Merger or Acquisition](./podcasts/how-to-manage-efficiently-through-a-merger.md) by **Loïc Houssier**, 2020.
 - [Technical leadership with Markus Blankenship](./podcasts/technical-leadership-with-markus-blankenship.md) by **Markus Blankenship**,2019.
+
+# Art & Inspiration
+
+- This section covers movies and tv series.
+- [Clone Wars](./art/clone-wars.md)
+
+ 
