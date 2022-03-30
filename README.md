@@ -8,6 +8,10 @@ Taking notes as I study with the spirit of having a place to come back to.
 
 # Talks
 
+### Books
+
+- [Monolith to Microservices](./books/monolith-to-microservices), by **Sam Newman**, 2020.
+
 ## Events
 
 - [Event Driven Microservice, the sense, the non-sense and a way forward](./talks/events/event-driven-microservices-the-sense-the-non-sense.md), by **Allard Buijze**, GOTO 2019. (`37min 05s`)
