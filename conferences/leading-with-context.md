@@ -34,4 +34,10 @@ When I became a manager I discovered that I was more accountable, even though I 
 - Define Service Level Objectives (SLOs)
   - SLIs: Key measurements to determine the relaibility of a system
   - SLOs: Goals that you set for how much reliability you expect out of a system
-  - 
+  - SLAs: What will happen if the system doesn't meet its SLOs
+    - X should be true (SLI) Y portion of the time (SLO) or else Z will happen (SLA)
+    - Don't just measure availability and latency, measure what directly affects your users when that happens.
+- Engagement drivers: Autonomy, purpose, growth, recognition, compensation, challenging work.
+- Perform anonymous engagement checks (monthly)
+- HEART framework: Happiness, Engagement, Adoption, Retention and Task Success
+  - Are users achieving their goals or tasks quickly and easily?
