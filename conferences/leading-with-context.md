@@ -1,2 +1,37 @@
 # Leading software teams with context, by James Samuel (Engineering Manager, reddit)
 
+When I became a manager I discovered that I was more accountable, even though I was not responsible for carrying out stuff.
+    - Slow feedback loop.
+- Teams want to know why. Upper management wants to know why. I want to know why.
+- Leadership is influence and you need context to influence
+- Context helps you make informed decisions
+- Pilars of leading with visibility:
+  - **Process**: Understand how stuff gets built on time and on budget
+  - **Operation**: Understand if the stuff built will continue to run
+  - **People**: Understand if the folks building the stuff are engaged and happy to continue building stuff
+  - **Product**: Understand if users are happy and getting values from what is being built
+- We tend to confuse process with rituals and ceremonies
+  - Where are engineers actually spending their time?
+    - **Architecture**: Does it allow your team to move fast?
+    - **Dev experience**: Can teams build, scale and deploy services easily?
+    - **Autonomy**: Are teams empowered to ideate, figure out things and deliver value independently?
+    - **Speed**: Deployment frequency / Lead time for changes
+    - **Stability**: Change fail rate (%) / Time to restore or recover
+- You could use your 1:1s to figure things out. Even with skip level reports.
+- DORA metrics. The four metrics used are:
+  - Deployment frequency (DF).
+  - Lead time for changes (LT).
+  - Mean time to recovery (MTTR). 
+  - Change failure rate (CFR).
+- Understand if the stuff you are building will continue to run or be operable.
+- Documentation: How easy is it to find and access documentation?
+- Automation: What manual work the team does that can be automated?
+- Processes: What processes are useful and what processes are obsolete?
+- Tooling: How satisfied is the team with tooling used daily, eg: linters, IDE?
+- Your organisation is experiencing growth if Complexity is high and Rate of change is high.
+  - Realiability and performance will go under pressure when you grow.
+- 'How did you go bankrupt? Two ways, gradually, then suddenly - Ernest Hemingway, the sun also rises'
+- Define Service Level Objectives (SLOs)
+  - SLIs: Key measurements to determine the relaibility of a system
+  - SLOs: Goals that you set for how much reliability you expect out of a system
+  - 
