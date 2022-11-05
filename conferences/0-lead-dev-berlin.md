@@ -8,10 +8,10 @@
 
 ### Refreshments. Coffee break
 
-- Leading software teams with context (visibility), by James Samuel (Engineering Manager, reddit)
-- Decision making in black box scenarios, by Boyan Angelov (CTO, VAAAM AG)
-- Leading as an introvert, by Nelida Velazquez (Senior Software Engineer, cobalt)
-- Why we must approach debugging differently, by Elinor Swery (Director of Solutions Architecture)
+- [Leading software teams with context (visibility)](./leading-with-context.md), by James Samuel (Engineering Manager, reddit)
+- [Decision making in black box scenarios](./decision-making-black-box.md), by Boyan Angelov (CTO, VAAAM AG)
+- [Leading as an introvert](./introverts.md), by Nelida Velazquez (Senior Software Engineer, cobalt)
+- [Why we must approach debugging differently], by Elinor Swery (Director of Solutions Architecture)
 
 ### Lunch
 
