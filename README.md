@@ -6,6 +6,10 @@ Taking notes as I study with the spirit of having a place to come back to.
 
 - [Notes to a Software Team Leader](./books/notes-to-a-software-team-leader.md) by **Roy Osherove**.
 
+# Conferences
+
+- [Lead Dev Berlin 2022](./conferences/lead-dev-berlin.md)
+
 # Talks
 
 ## Events
