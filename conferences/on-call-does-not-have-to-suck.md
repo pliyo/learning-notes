@@ -1,4 +1,4 @@
-# On call does not have to suck,by Charity Majors
+# On call does not have to suck, by Charity Majors
 
 - The mark of a truly healthy on call rotation is that one where people choose to do it
 - On call is a social contract between engineers and managers
