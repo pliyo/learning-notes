@@ -8,7 +8,7 @@ Taking notes as I study with the spirit of having a place to come back to.
 
 # Conferences
 
-- [Lead Dev Berlin 2022](./conferences/lead-dev-berlin.md)
+- [Lead Dev Berlin 2022](./conferences/0-lead-dev-berlin.md)
 
 # Talks
 

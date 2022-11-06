@@ -1,0 +1,49 @@
+# The Making of a Manager's Manager, by Anita Singh (Director of Engineering, Gorillas)
+
+- I've done the transition from IC to being a Manager. 
+  - Surely from being one kind of manager to another is going to be an easy transition?? Wrong!
+- The journey begins at the cross-roads
+  - Would you actually like your manager's job?
+- Recomendation: An Engineering Manager's Bill of Rights, by Emily Nakashima
+- Still be middle management
+  - As a manager's manager you are now responsible for multiple teams, and their managers.
+  - The layers switch, but you are still going to be doing some middle management work.
+  - There is an increase in power dynamics and less control that you had before
+  - When you become director there are really few shots that you can call by yourself
+  - You really want to have an anchor that you are really excited about and that you want to learn
+- Fill in gaps to help the business succeed
+  - There are processes that can be improved.
+  - Raising your hands and taking action can pay dividends for your career
+  - Take work off your manager's place is a great way to test the water before jumping into your manager's place
+  - Start mentoring and building a community
+- What rituals make sense that you are part of?
+- `I love reading RFCs, to learn how engineers are collaborating with each other`
+- Skip level meetings are invaluable to help meet your indirect reports
+- Demos are not about you, is about them
+- When evaluating RFCs, you don't want to get into a nitty gritty
+  - An engineer might do what you suggest because of your title, not because is the thing to do
+- Do not send any calendar invites without any context to your engineers
+- 1:1s:
+  - Their topics <> Their team's topic
+  - Have them prioritise themselves before their teams.
+    - Managers have to put an oxygen masks first before helping others.
+    - Reinforce the idea that you want to hear from them
+- You are being watched.
+  - Prepare upfront your communication as much as you can.
+  - Be really intentional about your actions and your words.
+  - Every interaction is an opportunity to shape the culture
+    - Ex: In a postmortem someone blaming other engineer, is both what you do and you don't that shapes the culture
+- Mistakes:
+  - Limiting my first team to only peers in our department
+    - Didn't spend the same energy in peers outside of the department (Head of)
+  - Your first team is your leadership team
+  - You have to strategise and prioritise some relationships over others
+  - Still doing the old job, and not giving up control sooner
+    - This can be destructive in this manager of managers role
+    - You have to give back control
+- Self care:
+  - It's isolating and lonely to be a manager because you have an isolated experience
+  - Mistakes feel worse as they impact more people
+  - Abuse can happen upwards as well
+  - Have your peer group and get frequent feedback
+- `Managing managers have been the most rewarding role I ever had`

@@ -1,0 +1,86 @@
+# On call does not have to suck,by Charity Majors
+
+- The mark of a truly healthy on call rotation is that one where people choose to do it
+- On call is a social contract between engineers and managers
+- Engineers, your job is to own your code. You write it, you run it.
+  - Clean observable architecture helps here.
+- Managers, your job is to make sure owning it doesn't suck.
+  - By ensuring you get enough time to fix that which is broken
+  - Track frequency of `out of hours` on call
+- Software ownership is a way to make things better
+  - This cannot be an afterthought, it should play a prominent role in your hiring, team structure and compensation from the start
+  - These decisions define who we are
+- If it sucks:
+  - Audit your alert strategy
+  - Graph and track every alert outside of business hours
+  - Get reliability projects on the roadmap
+  - Get curious about your on call culture
+  - Ideally add managers themselves to the rotation, managers want to stay technical
+    - As a manager, you want to be the backup of the first resort. It will make your team respect you more
+- Objections to on call:
+  - My time is too valuable. Whose time isn't?
+  - I don't know how to navigate production? Learn.
+- Adopt best practices:
+  - Conduct blameless retros after reliability events.
+  - Stop alerting on systems (ex: high cpu, disk full).
+    - Adopt SLOs and alert on those instead. 
+    - Delete any predictive alerts
+  - Alert only when customers are in pain
+    - Align on call pain with user pain
+    - Design your systems to fail partially and gracefully if at all possible
+      - Better to spend down an SLO budget than have an outage
+    - Never, ever alert on symptoms, like 'high CPU', or 'disk fail'
+  - Out of hours alerts:
+    - Have a second lane of 'stuff to deal with but not urgently' whese most alarms go
+      - Put as much as possible here.
+    - Embrace observability
+  - Spend 20% time steady state on tech debt and small improvements.
+    - Run chaos experiments. Decouple deploys from releases using feature flags
+    - Proactively explore and inspect outliers every day
+    - Embrace automatic deployments, at least to a small % of your services
+- Principles:
+  - Value high level abstractions
+  - Test in production
+  - If it hurts, do it more often
+- How well does your team perform?
+  - This is not as how good are you at engineering. 
+  - High performing teams are those that invest their time solving interesting problems
+  - DORA Metrics
+    - How often do you deploy?
+    - How long does it take for code to go live?
+    - How many of your deploys fail?
+    - How long does it take to recover from an outage?
+    - How often are you paged outside working hours?
+- Great teams make great engineers, it's not the other way around.
+  - Improve your performance as a team
+    - Instrument your code for observability with wide events and spans
+    - Practice ODD: Observability Driven Development.
+      - Instrument as you go, ship quickly, verify changes in prod
+    - Deploy one merge by one engineer at a time
+    - Run tests and auto-deploy in less than 15 minutes
+    - Consider whether you have sufficient operational expertise on hand
+      - And buy time with your teams when you don't have that
+- 15 years ago the CI/CD mission was kicked off, we have come so far since then
+  - The michael jackson test took down google once he died [laughs]
+  - People don't own code, teams own code. That's why you do reviews. 
+  - Ops tools are development tools.
+- Once you can deploy in 15 minutes or less, you could use that to retain your engineers.
+  - Engineers are more likely to look at the code if they have ownership and can look at it shortly after being merged
+    - not the same when you have 50 people involved in the same codebase.
+- The split between devs and ops should have never happened. 
+  - Operational expertise is more important than ever been
+  - The 10x engineer is that that can make 10 engineers twice as good
+- Your ability to ship code swiftly and safely has less to do with your knowledge of algorithm and data structures
+  - it has much more to do with the sociotechnical system you participate in
+- Technical leadership should focus intensely on constructing and tightening the feedback loop at the heart of their system
+  - We chronically overestimate our own personal influence, and underestimate the influence of the systems that we live and work in
+  - In sociology they call it the Fundamental Attribution Error (FAE)
+- How to make people happy on call:
+  - If you are on call you are not to work on product or the roadmap that week
+  - When you are on call is to work on the system
+  - You work on whatever has been bothering you, exercise your judgement, have fun
+  - On call is your week to stretch your legs and have the biggest impact for your team
+  - If you are on call this week, you have Friday off
+- I'm mixed about paying people for being on call. No one should be on call when they have a baby
+- Ideally don't pay for being on call, give Friday off, but if people don't get it,
+  - pay a premium every time they are alerted out of hours
