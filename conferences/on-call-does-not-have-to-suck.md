@@ -64,3 +64,23 @@
   - The michael jackson test took down google once he died [laughs]
   - People don't own code, teams own code. That's why you do reviews. 
   - Ops tools are development tools.
+- Once you can deploy in 15 minutes or less, you could use that to retain your engineers.
+  - Engineers are more likely to look at the code if they have ownership and can look at it shortly after being merged
+    - not the same when you have 50 people involved in the same codebase.
+- The split between devs and ops should have never happened. 
+  - Operational expertise is more important than ever been
+  - The 10x engineer is that that can make 10 engineers twice as good
+- Your ability to ship code swiftly and safely has less to do with your knowledge of algorithm and data structures
+  - it has much more to do with the sociotechnical system you participate in
+- Technical leadership should focus intensely on constructing and tightening the feedback loop at the heart of their system
+  - We chronically overestimate our own personal influence, and underestimate the influence of the systems that we live and work in
+  - In sociology they call it the Fundamental Attribution Error (FAE)
+- How to make people happy on call:
+  - If you are on call you are not to work on product or the roadmap that week
+  - When you are on call is to work on the system
+  - You work on whatever has been bothering you, exercise your judgement, have fun
+  - On call is your week to stretch your legs and have the biggest impact for your team
+  - If you are on call this week, you have Friday off
+- I'm mixed about paying people for being on call. No one should be on call when they have a baby
+- Ideally don't pay for being on call, give Friday off, but if people don't get it,
+  - pay a premium every time they are alerted out of hours
