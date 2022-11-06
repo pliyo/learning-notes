@@ -1,4 +1,4 @@
-# Talks
+# Lead Dev Berlin 2022
 
 ## Day 1.
 - Introduction by Pat Kua.
