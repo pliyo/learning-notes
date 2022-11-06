@@ -54,10 +54,9 @@
 - [Developer Productivity 2.0](./developer-productivity.md), by Gergely Orosz (Author, The Pragmatic Engineer)
 
 
-# (Juan's Personal notes):
+# Juan's Personal notes:
 
 - Would strongly recommend the talks from: Lena Reinhart, Charity Majors and Sangeeta Handa.
-
-If you are reading this and can't find links for a talk is because I didn't take notes
+- If you are reading this and can't find links for a talk is because I didn't take notes
 probably I missed that talk while outside taking some air, or doing some work.
 
