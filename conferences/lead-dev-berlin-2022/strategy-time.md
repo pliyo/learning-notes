@@ -41,7 +41,7 @@ Tactics:
   - STABB = Space, Think, Act, Boundaries, Broadcast
 - Daily work: Start your work day with 15 minutes of strategy time.
   - Make some space to think first, and reflect on 4 strategic questions:
-    - WHat is the most important thing for us?
+    - What is the most important thing for us?
     - What are we not doing to accomplish it?
     - How can I help my team draw connections between their work and strategy?
     - How am I investing in capabilities we need to meet our strategic goals?
