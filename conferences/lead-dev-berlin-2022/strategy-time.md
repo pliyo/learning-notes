@@ -39,13 +39,14 @@ Tactics:
     - Broadcasting what you are doing.
   - Repetition (daily actions, weekly, as well as quaterly)
   - STABB = Space, Think, Act, Boundaries, Broadcast
-- Daily work: Start your work day with 15 minutes of strategy time.
+---
+- **Daily work**: Start your work day with 15 minutes of strategy time.
   - Make some space to think first, and reflect on 4 strategic questions:
     - What is the most important thing for us?
     - What are we not doing to accomplish it?
     - How can I help my team draw connections between their work and strategy?
     - How am I investing in capabilities we need to meet our strategic goals?
-- Every day ask strategic questions
+- **Every day ask strategic questions**
   - What buusiness problems are we trying to solve?
   - What assumptions are we making?
   - What are our blindspots?
@@ -55,7 +56,7 @@ Tactics:
 - Focus on what matters, communicate it for alignment
   - What should I stop doing today?
     - Make a conscious ecision about what you are leaving from your TODO list
-- Weekly: 30 mins blocks of strategy time.
+- **Weekly:** 30 mins blocks of strategy time.
   - World
   - Industry, trends
   - Company, including customers
@@ -70,12 +71,12 @@ Tactics:
       - Future consequences, benefits, drawbacks
     - Choose options with positive 2nd and 3rd order consequences (short term pain, long term gain)
     - Reminder: review decisions after 3/6 months
-- Actively connect your team with strategy
+- **Actively connect your team with strategy**
   - Why are we (not) doing X?
   - What does success look like?
   - How does our work connect with the big picture?
   - Here's what I learned this week
-- Boundaries and broadcasting
+- **Boundaries and broadcasting**
   - Where can we add the highest value?
   - What's most important to the organization?
   - What could we do to achieve more, better, faster?
