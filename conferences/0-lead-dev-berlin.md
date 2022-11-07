@@ -38,7 +38,7 @@
 - Tackling the topping tech talent pyramid: a radical challenge to building diverse teams, by Richard Ng (Head of Education, Academy)
 - [Leading through turbulence](./lead-dev-berlin-2022/leading-through-turbulence.md), by Ritesh Manchada (Sr. Director, Engineering, Click Therapeutics)
 - [A lean devops approach to learning & development](./lead-dev-berlin-2022/learning-development.md), by Sorriel Harriet (Continuous Learning Lead, Armakuni)
-- [Do you really need a platform team](./lead-dev-berlin-2022/platform-engineering), by George Hantzaras (Director, Cloud Platform Engineering, Citrix Systems)
+- [Do you really need a platform team](./lead-dev-berlin-2022/platform-engineering.md), by George Hantzaras (Director, Cloud Platform Engineering, Citrix Systems)
 
 ## Lunch
 
